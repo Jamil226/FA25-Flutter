@@ -8,11 +8,17 @@
 ![SQFLite](https://img.shields.io/badge/SQFLite-%230075C2.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23FF4B4B.svg?style=for-the-badge&logo=json&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -21,6 +27,17 @@ Welcome to the Flutter Bootcamp - FA25! This repository is designed to help you 
 ## Bootcamp Overview
 
 This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best practices, state management techniques, backend integration, and performance optimization. By the end of this course, you’ll be equipped with the skills to develop professional Flutter applications for Android and iOS.
+
+---
+
+## Teaching Methodology
+
+- **Project-based Learning**
+- **Inquiry-based Learning**
+- **Flipped Classroom**
+- **Blended Learning**
+- **Audio-video Visual Aids**
+- **Technology-based Learning (eLearning)**
 
 ---
 
@@ -85,3 +102,26 @@ All course-related files are organized in a shared Google Drive folder.
 - Creating a very basic **Dice Game** with two dice that change on button press
 
 ---
+
+---
+
+## Contributions & Community
+
+Contributions to this repository are highly encouraged!
+
+- Submit issues & suggestions
+- Fork & improve the course content
+- Add new features & code samples
+- Join discussions & help fellow learners
+
+---
+
+## Join the Flutter Bootcamp Now!
+
+Stay tuned for regular updates, new projects, and learning challenges. Follow the repository and start your Flutter journey today!
+
+📧 For any queries, feel free to contact us at **jamil138.amin@gmail.com**.
+
+---
+
+## Bootcamp Credits
