@@ -110,6 +110,13 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
+### Lab 5 – Navigation Between Screens
+
+- Introduction to **Navigator.push()** and **Navigator.pop()**
+- Building **multiple screens** in a Flutter app
+- Passing data between screens
+- Example project: **Simple Multi-Screen App** (e.g., Home → Details → Back)
+
 ---
 
 ## Contributions & Community
