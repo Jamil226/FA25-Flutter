@@ -30,14 +30,23 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 
 ---
 
+## curriculum design and educational framework
+
+- Bloom’s Taxonomy Framework (Higher Order)
+- Progressive Curriculum (John Dewey)
+- Outcome-Based Education (OBE)
+
+---
+
 ## Teaching Methodology
 
-- **Project-based Learning**
-- **Inquiry-based Learning**
-- **Flipped Classroom**
-- **Blended Learning**
-- **Audio-video Visual Aids**
-- **Technology-based Learning (eLearning)**
+- Project-based Learning
+- Inquiry-based Learning
+- Flipped Classroom
+- Blended Learning
+- Audio-video Visual Aids
+- Technology-based Learning (eLearning)
+- OBE
 
 ---
 
