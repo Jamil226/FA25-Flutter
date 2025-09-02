@@ -24,14 +24,48 @@ All course-related files are organized in a shared Google Drive folder.
 - Setting up an Emulator (Virtual Device)
 - Enabling Developer Options for real device testing
 - Verifying the setup using the `flutter doctor` command
-
----
-
-### Lab 1 – Introduction to Flutter & Dart
-
 - Understanding Flutter Architecture
 - Exploring Widgets and the Widget Tree
 - Dart Programming Fundamentals
 - [Dart Fundamentals Repository](https://github.com/Jamil226/Dart) – Covers variables, collections, control flow, functions, and error handling
+
+---
+
+### Lab 1 – Flutter Layouts & Scaffold
+
+- Introduction to **Scaffold** widget
+- Using **SafeArea**
+- Exploring **Container** widget (height, width, margin, padding, color)
+- Implementing **Row** widget for horizontal layout
+- Adding spacing with **SizedBox**
+
+---
+
+### Lab 2 – Working with Text, Icons & AppBar
+
+- Adding and styling **Text** widgets
+- Using **Icons** in Flutter
+- Implementing **AppBar**
+- Understanding and modifying **pubspec.yaml**
+- Adding **custom fonts** in a Flutter app
+
+---
+
+### Lab 3 – Input & Interaction Widgets
+
+- Using **TextField** for user input
+- Applying **InputDecoration** (hints, labels, borders, icons)
+- Exploring different types of **Buttons** (ElevatedButton, TextButton, OutlinedButton)
+- Handling basic **user interactions** with onPressed callbacks
+
+---
+
+### Lab 4 – Events, Images & Dice Game
+
+- Handling **button events** with onPressed
+- Adding and displaying **images** in a Flutter app (dice faces: 1.png – 6.png)
+- Using **Expanded** and **Row** for layout
+- Implementing **random number generation** with `dart:math`
+- Creating a very basic **Dice Game** with two dice that change on button press
 
 ---
