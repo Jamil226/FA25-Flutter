@@ -40,13 +40,11 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 
 ## Teaching Methodology
 
-- Project-based Learning
-- Inquiry-based Learning
-- Flipped Classroom
+- Project-based Learning (PBL)
+- Experiential Learning (Kolb Cycle)
+- Demonstration Method
 - Blended Learning
-- Audio-video Visual Aids
 - Technology-based Learning (eLearning)
-- OBE
 
 ---
 
