@@ -14,6 +14,8 @@ All course-related files are organized in a shared Google Drive folder.
 
 📂 **Course Folder**: [Access Here](https://drive.google.com/drive/folders/1Dh_8E08ztEt1ZruDUkcmFK1vtc7gP8fU?usp=sharing)
 
+📂 **Dart Programming Fundamentals**: [Access Here](https://github.com/Jamil226/Dart)
+
 ---
 
 ### Lab 0 – Prerequisites
@@ -26,8 +28,6 @@ All course-related files are organized in a shared Google Drive folder.
 - Verifying the setup using the `flutter doctor` command
 - Understanding Flutter Architecture
 - Exploring Widgets and the Widget Tree
-- Dart Programming Fundamentals
-- [Dart Fundamentals Repository](https://github.com/Jamil226/Dart) – Covers variables, collections, control flow, functions, and error handling
 
 ---
 
