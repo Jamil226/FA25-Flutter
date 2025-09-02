@@ -1,5 +1,35 @@
 # Mobile Application Development using Flutter
 
+### 📌 Languages & Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🔥 Backend & Databases
+
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQFLite](https://img.shields.io/badge/SQFLite-%230075C2.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23FF4B4B.svg?style=for-the-badge&logo=json&logoColor=white)
+
+### 🛠 Tools & IDEs
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌐 Version Control
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌍 Other
+
+![Google](https://img.shields.io/badge/Google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
 Welcome to the Flutter Bootcamp - FA25! This repository is designed to help you master Flutter from the ground up. Whether you’re a beginner or an experienced developer looking to deepen your Flutter knowledge, this Bootcamp will guide you through building high-performance, scalable mobile applications.
 
 ## Bootcamp Overview
