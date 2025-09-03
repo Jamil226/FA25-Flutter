@@ -33,7 +33,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 ## Curriculum Design and Educational Framework
 
 - Bloom’s Taxonomy Framework (Higher Order)
-- Progressive Curriculum (John Dewey)
+- Progressive Curriculum Development (John Dewey)
 - Outcome-Based Education (OBE)
 
 ---
