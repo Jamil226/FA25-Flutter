@@ -77,14 +77,16 @@ All course-related files are organized in a shared Google Drive folder.
 - Using **SafeArea**
 - Exploring **Container** widget (height, width, margin, padding, color)
 - Implementing **Row** widget for horizontal layout
+- Implementing **ListView** widget for responsive layout
 - Adding spacing with **SizedBox**
 
 ---
 
-### Lab 2 – Working with Text, Icons & AppBar
+### Lab 2 – Working with Text, Icons, Images, & AppBar
 
 - Adding and styling **Text** widgets
 - Using **Icons** in Flutter
+- Using **AssetImage** in Flutter
 - Implementing **AppBar**
 - Understanding and modifying **pubspec.yaml**
 - Adding **custom fonts** in a Flutter app
