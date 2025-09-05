@@ -77,6 +77,7 @@ All course-related files are organized in a shared Google Drive folder.
 - Using **SafeArea**
 - Exploring **Container** widget (height, width, margin, padding, color)
 - Implementing **Row** widget for horizontal layout
+- Implementing **Column** widget for horizontal layout
 - Implementing **ListView** widget for responsive layout
 - Adding spacing with **SizedBox**
 
