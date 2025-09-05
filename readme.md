@@ -121,6 +121,19 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
+### Lab 6 – Launching Built-in Applications (Dialer, SMS, Email, Maps, Camera)
+
+- Introduction to **url_launcher** and **image_picker** plugins
+- Launching the **phone dialer** with a number
+- Composing and sending an **SMS message**
+- Sending an **email** with subject and body
+- Opening a location in **Google Maps**
+- Using the **camera** to capture an image
+- Picking an image from the **gallery**
+- Example project: **Built-in Apps Launcher** (buttons for Call, SMS, Email, Maps, Camera, Gallery)
+
+---
+
 ## Contributions & Community
 
 Contributions to this repository are highly encouraged!
