@@ -13,8 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: SafeArea(
-          child: Text('Hello World')
-          ),
+            child: Text('Hello World')
         ),
       ),
     );
