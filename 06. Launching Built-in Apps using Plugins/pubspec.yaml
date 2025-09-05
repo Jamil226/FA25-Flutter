@@ -1,0 +1,42 @@
+name: my_first_gc_app
+description: "Launching Built-in Applications using Plugins (e.g., url_launcher, image_picker)"
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  #  A Flutter plugin for launching a URL.
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto_regular.ttf
+        - asset: assets/fonts/roboto_bold.ttf
+        - asset: assets/fonts/roboto_light.ttf
+
+    - family: Pacific
+      fonts:
+        - asset: assets/fonts/pacific_regular.ttf
+
+    - family: Source Sans
+      fonts:
+        - asset: assets/fonts/source_sans_regular.ttf
