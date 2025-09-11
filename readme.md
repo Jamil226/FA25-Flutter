@@ -79,6 +79,7 @@ All course-related files are organized in a shared Google Drive folder.
 - Implementing **Row** widget for horizontal layout
 - Implementing **Column** widget for verticle layout
 - Implementing **ListView** widget for responsive layout
+- Implementing **GridView** widget for responsive layout
 - Adding spacing with **SizedBox**
 
 ---
