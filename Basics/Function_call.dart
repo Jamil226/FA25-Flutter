@@ -6,5 +6,5 @@ void greet(String name) {
 void main() {
   // function call
   greet("Hamza");
-  greet("Ali");
+  greet("Sir Jameel");
 }
