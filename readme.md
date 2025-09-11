@@ -68,6 +68,7 @@ All course-related files are organized in a shared Google Drive folder.
 - Verifying the setup using the `flutter doctor` command
 - Understanding Flutter Architecture
 - Exploring Widgets and the Widget Tree
+- Git and GitHub basic understanding
 
 ---
 
