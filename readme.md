@@ -82,7 +82,7 @@ All course-related files are organized in a shared Google Drive folder.
 - Implementing **ListView** widget for responsive layout
 - Implementing **GridView** widget for responsive layout
 - Adding spacing with **SizedBox**
-- Basic Material Dashboard Design
+- Basic **Material Dashboard** Design
 
 ---
 
@@ -94,9 +94,9 @@ All course-related files are organized in a shared Google Drive folder.
 - Implementing **AppBar**
 - Understanding and modifying **pubspec.yaml**
 - Adding **custom fonts** in a Flutter app
-- Center Widgets in Flutter
-- Card Widget in Flutter
-- Adding Fonts in Flutter
+- **Center** Widgets in Flutter
+- **Card** Widget in Flutter
+- Adding **Fonts** in Flutter
 
 ---
 
