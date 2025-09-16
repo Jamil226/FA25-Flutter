@@ -161,8 +161,6 @@ All course-related files are organized in a shared Google Drive folder.
 - **Toggle Switch App** – Turn dark/light mode on and off
 - **Like Button App** – Tap a heart icon to toggle between liked/unliked
 - **TextField Input Demo** – Enter name and display it on screen
-- **Checkbox & Radio Buttons** – Select favorite options (e.g., food, color)
-- **Simple Calculator** – Add, subtract, multiply, divide two numbers
 
 ---
 
