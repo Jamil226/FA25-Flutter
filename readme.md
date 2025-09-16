@@ -124,16 +124,45 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 6 – Launching Built-in Applications (Dialer, SMS, Email, Maps, Camera)
+### Lab 6 – Launching Built-in Apps using Plugins
 
-- Introduction to **url_launcher** and **image_picker** plugins
-- Launching the **phone dialer** with a number
-- Composing and sending an **SMS message**
-- Sending an **email** with subject and body
-- Opening a location in **Google Maps**
-- Using the **camera** to capture an image
-- Picking an image from the **gallery**
-- Example project: **Built-in Apps Launcher** (buttons for Call, SMS, Email, Maps, Camera, Gallery)
+- Introduction to **Flutter plugins** for device functionalities
+- Using `url_launcher` to open apps directly from Flutter
+- **Open Dialer** – Launch phone dialer with a number
+- **Open Map** – Show a location in Google Maps
+- **Send Message** – Open SMS app with pre-filled text
+- **Send Email** – Open email app with subject & body
+- **Web View App** – Display websites inside the app
+- **Open Google** – Launch Google in browser
+- **Open Camera** – Capture photo using device camera
+- **Image Picker** – Pick image from gallery or camera
+
+---
+
+### Lab 7 – Stateless vs Stateful Widgets & Splash Screen
+
+- **Understanding Stateless Widgets**
+
+  - Widgets that do not change during runtime
+  - Example project: _Static Profile Card_ (Name, Image, Description)
+
+- **Understanding Stateful Widgets**
+
+  - Widgets that can change dynamically with `setState()`
+  - Example project: _Counter App_ (Increment/Decrement buttons)
+
+- **Splash Screen**
+  - Displaying a logo and progress indicator
+  - Auto navigation after a delay
+  - Example project: _App Splash → Home Screen_
+
+## Other Tiny Use Cases & Mini Projects
+
+- **Toggle Switch App** – Turn dark/light mode on and off
+- **Like Button App** – Tap a heart icon to toggle between liked/unliked
+- **TextField Input Demo** – Enter name and display it on screen
+- **Checkbox & Radio Buttons** – Select favorite options (e.g., food, color)
+- **Simple Calculator** – Add, subtract, multiply, divide two numbers
 
 ---
 
