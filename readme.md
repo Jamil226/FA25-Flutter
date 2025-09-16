@@ -72,7 +72,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 1 – Flutter Layouts & Scaffold
+### Lab 1 – Flutter Basic Layouts
 
 - Introduction to **Scaffold** widget
 - Using **SafeArea**
@@ -82,6 +82,7 @@ All course-related files are organized in a shared Google Drive folder.
 - Implementing **ListView** widget for responsive layout
 - Implementing **GridView** widget for responsive layout
 - Adding spacing with **SizedBox**
+- Basic Material Dashboard Design
 
 ---
 
