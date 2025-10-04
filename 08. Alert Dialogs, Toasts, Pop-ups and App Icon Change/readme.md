@@ -28,20 +28,20 @@ iOS → ios/Runner/Info.plist
 
 ---
 
-# Change App Icon Manually
+## Change App Icon Manually
 
 If you prefer to **manually set app icons** instead of using a plugin, follow these steps:
 
 ---
 
-## Generate App Icons
+### Generate App Icons
 
 - Use [App Icon Generator](https://appicon.co/) or any online tool to generate icons in all required sizes.
 - Export the icon set for **Android** and **iOS**.
 
 ---
 
-## Android Setup
+### Android Setup
 
     1. Navigate to: android/app/src/main/res/
 
@@ -54,7 +54,7 @@ If you prefer to **manually set app icons** instead of using a plugin, follow th
 
 ---
 
-## iOS Setup
+### iOS Setup
 
     1. Navigate to: ios/Runner/Assets.xcassets/AppIcon.appiconset/
     2. Replace the default icon set with your generated iOS icons.
