@@ -1,4 +1,4 @@
-## Features Covered
+# Topics Covered
 
 - Change App Icons
 - Change App Name
