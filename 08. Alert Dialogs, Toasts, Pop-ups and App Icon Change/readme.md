@@ -1,7 +1,7 @@
 # Topics Covered
 
-- Change App Icons
 - Change App Name
+- Change App Icons
 
 ---
 
