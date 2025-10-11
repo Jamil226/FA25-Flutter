@@ -169,6 +169,40 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
+### Lab 8 – Alert Dialogs, Toasts, Pop-ups, App Icon and App Name Change
+
+- Introduction to **Alert Dialogs**, **Toasts**, **Pop-ups**, and **App Customization** in Flutter
+
+#### Alert Dialogs
+
+- Creating a **Basic Alert Dialog** with title, message, and actions
+- Designing a **Custom Alert Dialog** using widgets
+- Implementing a **Bottom Alert Dialog** for modern UI effects
+
+#### Toasts
+
+- Using the `fluttertoast` package to display basic toast messages
+- Implementing **Motion Toasts** for animated notifications
+
+#### Pop-ups and Bottom Sheets
+
+- Displaying information using **Bottom Sheets**
+- Implementing **Modal** and **Persistent** bottom sheets for user interaction
+
+#### Internet Connectivity Check
+
+- Checking internet status programmatically
+- Showing an alert or bottom dialog when there’s **no internet connection**
+
+#### App Icon and App Name Customization
+
+- Changing the **App Icon** using the `flutter_launcher_icons` package and using manual method
+- Updating the **App Name** in:
+  - `AndroidManifest.xml` (for Android)
+  - `Info.plist` (for iOS)
+
+---
+
 ## Contributions & Community
 
 Contributions to this repository are highly encouraged!
