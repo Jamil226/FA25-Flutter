@@ -203,6 +203,14 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
+### Lab 10 – Navigation Between Screens
+
+- Introduction to **SharedPreferences**
+- Maintaining App Sessions with **SharedPreferences**
+  Introduction to **SQFLite**
+
+---
+
 ## Contributions & Community
 
 Contributions to this repository are highly encouraged!
