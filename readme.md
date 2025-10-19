@@ -207,7 +207,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 - Introduction to **SharedPreferences**
 - Maintaining App Sessions with **SharedPreferences**
-  Introduction to **SQFLite**
+- Introduction to **SQFLite**
 
 #### Expense Tracker App
 
