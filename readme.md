@@ -209,6 +209,18 @@ All course-related files are organized in a shared Google Drive folder.
 - Maintaining App Sessions with **SharedPreferences**
   Introduction to **SQFLite**
 
+#### Expense Tracker App
+
+- Creating an **Expense Tracker App** with expnese title, amount, and date
+- **CRUD** Operations
+- Fully Explained Code with Comments
+
+#### Sticky Notes App
+
+- Creating a **Sticky Note App** with note title, note details, and note date
+- **CRUD** Operations
+- **Editable Appbar** and **Random Colors** for notes.
+
 ---
 
 ## Contributions & Community
