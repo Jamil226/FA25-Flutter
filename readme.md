@@ -203,7 +203,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 10 – Navigation Between Screens
+### Lab 10 – Local Databases
 
 - Introduction to **SharedPreferences**
 - Maintaining App Sessions with **SharedPreferences**
