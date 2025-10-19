@@ -161,7 +161,7 @@ All course-related files are organized in a shared Google Drive folder.
   - Auto navigation after a delay
   - Example project: _App Splash → Home Screen_
 
-## Other Tiny Use Cases
+#### Other Use Cases
 
 - **Toggle Switch App** – Turn dark/light mode on and off
 - **Like Button App** – Tap a heart icon to toggle between liked/unliked
