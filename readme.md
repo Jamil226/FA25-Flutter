@@ -221,7 +221,7 @@ All course-related files are organized in a shared Google Drive folder.
 - **CRUD** Operations
 - **Editable Appbar** and **Random Colors** for notes.
 
-**Sticky Notes App Demo**
+**_Sticky Notes App Demo_**
 
 ![Sticky Notes App Demo](https://github.com/Jamil226/FA25-Flutter/raw/main/10.%20Local%20Databases/sticky_notes_app/demo/demo.gif)
 
