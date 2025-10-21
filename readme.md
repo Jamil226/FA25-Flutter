@@ -223,7 +223,9 @@ All course-related files are organized in a shared Google Drive folder.
 
 **Sticky Notes App Demo**
 
-[![Sticky Notes App](https://github.com/Jamil226/FA25-Flutter/blob/main/10.%20Local%20Databases/sticky_notes_app/thumbnail.png)](https://github.com/Jamil226/FA25-Flutter/blob/main/10.%20Local%20Databases/sticky_notes_app/video/sticky_notes_app.mp4)
+<video src="https://github.com/Jamil226/FA25-Flutter/raw/main/10.%20Local%20Databases/sticky_notes_app/video/sticky_notes_app.mp4" controls autoplay muted loop width="600">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
