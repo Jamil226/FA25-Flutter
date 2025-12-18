@@ -22,7 +22,7 @@
 
 ---
 
-Welcome to the Flutter Bootcamp - FA25! This repository is designed to help you master Flutter from the ground up. Whether you’re a beginner or an experienced developer looking to deepen your Flutter knowledge, this Bootcamp will guide you through building high-performance, scalable mobile applications.
+Welcome to the Flutter Bootcamp! This repository is designed to help you master Flutter from the ground up. Whether you’re a beginner or an experienced developer looking to deepen your Flutter knowledge, this Bootcamp will guide you through building high-performance, scalable mobile applications.
 
 ## Bootcamp Overview
 
@@ -30,35 +30,7 @@ This Bootcamp covers Flutter’s essential and advanced concepts, UI/UX best pra
 
 ---
 
-## Curriculum Design and Educational Framework
-
-- Bloom’s Taxonomy Framework (Higher Order)
-- Progressive Curriculum Development (John Dewey)
-- Outcome-Based Education (OBE)
-
----
-
-## Teaching Methodology
-
-- Project-based Learning (PBL)
-- Experiential Learning (Kolb Cycle)
-- Demonstration Method
-- Blended Learning
-- Technology-based Learning (eLearning)
-
----
-
-## Course Structure & Topics
-
-All course-related files are organized in a shared Google Drive folder.
-
-📂 **Course Folder**: [Access Here](https://drive.google.com/drive/folders/1Dh_8E08ztEt1ZruDUkcmFK1vtc7gP8fU?usp=sharing)
-
-📂 **Dart Programming Fundamentals**: [Access Here](https://github.com/Jamil226/Dart)
-
----
-
-### Lab 0 – Prerequisites
+### 0 – Prerequisites
 
 - Setting up Flutter and Dart SDK
 - Installing Android Studio
@@ -72,7 +44,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 1 – Flutter Basic Layouts
+### 1 – Flutter Basic Layouts
 
 - Introduction to **Scaffold** widget
 - Using **SafeArea**
@@ -86,7 +58,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 2 – Working with Text, Icons, Images, & AppBar
+### 2 – Working with Text, Icons, Images, & AppBar
 
 - Adding and styling **Text** widgets
 - Using **Icons** in Flutter
@@ -100,7 +72,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 3 – Input & Interaction Widgets
+### 3 – Input & Interaction Widgets
 
 - Using **TextField** for user input
 - Applying **InputDecoration** (hints, labels, borders, icons)
@@ -109,7 +81,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 4 – Events, Images & Dice Game
+### 4 – Events, Images & Dice Game
 
 - Handling **button events** with onPressed
 - Adding and displaying **images** in a Flutter app (dice faces: 1.png – 6.png)
@@ -119,7 +91,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 5 – Navigation Between Screens
+### 5 – Navigation Between Screens
 
 - Introduction to **Navigator.push()** and **Navigator.pop()**
 - Building **multiple screens** in a Flutter app
@@ -129,7 +101,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 6 – Launching Built-in Apps using Plugins
+### 6 – Launching Built-in Apps using Plugins
 
 - Introduction to **Flutter plugins** for device functionalities
 - Using `url_launcher` to open apps directly from Flutter
@@ -144,7 +116,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 7 – Stateless vs Stateful Widgets & Splash Screen
+### 7 – Stateless vs Stateful Widgets & Splash Screen
 
 - **Understanding Stateless Widgets**
 
@@ -169,7 +141,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 8 – Alert Dialogs, Toasts, Pop-ups, App Icon and App Name Change
+### 8 – Alert Dialogs, Toasts, Pop-ups, App Icon and App Name Change
 
 - Introduction to **Alert Dialogs**, **Toasts**, **Pop-ups**, and **App Customization** in Flutter
 
@@ -203,7 +175,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 09 – Advanced Navigation
+### 09 – Advanced Navigation
 
 - **Navigation Drawer**
 
@@ -244,7 +216,7 @@ All course-related files are organized in a shared Google Drive folder.
 
 ---
 
-### Lab 10 – Databases
+### 10 – Databases
 
 - Introduction to **SharedPreferences**
 - Maintaining App Sessions with **SharedPreferences**
@@ -275,11 +247,6 @@ All course-related files are organized in a shared Google Drive folder.
 - Creating a **Sticky Note App** with note title, note details, and note date
 - **CRUD** Operations
 - **Editable Appbar** and **Random Colors** for notes.
-
-**_Sticky Notes App Demo_**
-
-![Sticky Notes App Demo](https://github.com/Jamil226/FA25-Flutter/raw/main/10.%20Local%20Databases/sticky_notes_app/demo/demo.gif)
-
 ---
 
 ## Contributions & Community
